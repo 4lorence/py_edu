@@ -13,3 +13,4 @@ else:
     while 2 ** i <= number:
         print(f'2 в степени {i} равняеться {2 ** i}')
         i += 1
+
